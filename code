@@ -391,7 +391,7 @@ createLoadstringButton("Adopt Me", "loadstring(game:HttpGet(\"https://raw.github
 createLoadstringButton("Universal Aimbot", "loadstring(game:HttpGet('https://pastebin.com/raw/YOUR_UNIVERSAL_AIMBOT_LOADSTRING_HERE'))()") -- Placeholder
 createLoadstringButton("Infinite Yield", "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()") -- Common Admin Panel
 createLoadstringButton("FE God Mode", "loadstring(game:HttpGet('https://raw.githubusercontent.com/SkillSpawnPlayz/FE-God-Mode/main/FE_God_Mode.lua'))()") -- Placeholder for FE God Mode
-createLoadstringButton("Another Script", "print('Hello from another script!')") -- Example for testing scroll
+createLoadstringButton("Arsenal aimbot", "--[[PLEASE NOTE: This is a murder vs sherrifs script but its detected. I was asked to use this in arsenal and works fine!]] loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TheRealAvrwm/Projects/main/Xeno%20MVSD%20script.lua\", true))() ") -- Example for testing scroll
 createLoadstringButton("Regen health", "game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 100 --dont change the 100!!')") -- Example for testing scroll
 createLoadstringButton("SUCIDE", "game:GetService('Players').LocalPlayer.Character.Humanoid.Health = 0") -- Example for testing scroll
 createLoadstringButton("???", "") -- Empty loadstring for the '???' button
